@@ -1,1 +1,5 @@
+# os files/folders
 .DS_Store
+
+# editor files/folders
+nbproject
