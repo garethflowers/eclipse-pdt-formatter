@@ -2,6 +2,10 @@
 
 PHP Development Tools Formatter for Eclipse
 
+## Eclipe PDT Project
+
+Checkout the [Eclipse PDT Project](https://eclipse.org/pdt/) for the latest version of Eclipse PDT that now has PHP formatting build in.
+
 ## Installation
 
 ### For Eclipse 4.2
