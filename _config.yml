@@ -9,7 +9,11 @@ author: Gareth Flowers
 # Jekyll
 # ----------------------- #
 
-markdown: redcarpet
-exclude:  [ Gemfile, Gemfile.lock, README.md, vendor/ ]
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor/
 gems:
   - jekyll-sitemap
